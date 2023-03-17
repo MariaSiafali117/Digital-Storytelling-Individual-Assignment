@@ -88,7 +88,9 @@ https://user-images.githubusercontent.com/101007425/225983297-ca86922c-1564-4e20
   
 ![Στιγμιότυπο οθόνης (16)](https://user-images.githubusercontent.com/101007425/225993763-d03a34d0-a740-419a-9dd5-a6713299cbef.png)
 
-![Στιγμιότυπο οθόνης (17)](https://user-images.githubusercontent.com/101007425/225993780-192a95f3-f9f7-4140-bb13-f6aa5a06742f.png)
+![Στιγμιότυπο οθόνης (17)](https://user-images.githubusercontent.com/101007425/225993780-192a95f3-f9f7-4140-bb13-f6aa5a06742f.png)\
+  
+ Για να μπορέσω να ανεβάσω το βίντεό μου, το αποσημπίεσα σε αρχείο zip, διότι ξεπρνούσε το όριο μεγέθους. 
 
 # 2nd Deliverable
 
