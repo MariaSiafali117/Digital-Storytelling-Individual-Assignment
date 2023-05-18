@@ -6,13 +6,17 @@
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
-
+ 
+ Σε αυτή την άσκηση θα δούμε πως με την βήθεια του Unity και τα αντίστοιχα <a href="https://learn.unity.com/project/unit-1-getting-started?uv=2019.4&courseId=5ee00851edbc2a0022274f75"> Tutorials <a/>  θα δημιουργήσουμε μία ολοκληρωμένη ταινία. Θα μάθουμε τεχνικές όπως εφέ, κίνηση, παιχνίδι με τις κάμερες και θα δούμε πως μπορούμε μέσψ του Unity να μοντάρουμε μια σκήνή και επιπλέον να δημοιυργήσουμε τα δικά μας αντικείμενα και Assets.  
 
 
 
 # Summary
-
-
+  
+ Ακολουθώντας τα παραδοτέα, τα δύο πρώτα είναι βασισμένα στο a href="https://learn.unity.com/project/unit-1-getting-started?uv=2019.4&courseId=5ee00851edbc2a0022274f75"> Tutorial <a/> του Unity Learn, δημιουργώνρτας την  ταινία που υποδεθκνύεται με αυτά τα Assets. Αυτό μας βοηθά να περιηγηθούμε στο πρόγραμμα και να γνωρίσμουμε τις δυνατότητες του και έπειτα να είμαστε σε θέση να δημοιυργλησουμε μία δική μας ταινία από την αρχή. Αυτό  είναι το  τρίτο και τελευταίο παραδοτέο αυτής της άσκησης.
+  
+  
+  
 # 1st Deliverable
 ## <li> Task 1 
 Ξεκινώντας το πρώτο παραδοτέο, αρχικά περιηγήθηκα στο πρόγραμμα για να δω τις δυνατότητες και τον τρόπο που λειτουργεί σε τρισδιάστατη μορφή. Έπειτα, διάβασα προσεκτικά τα unit 1 και 2 του tutorial. Αφού έστησα το background μου, 
@@ -252,17 +256,20 @@ https://user-images.githubusercontent.com/101007425/236341707-50f9e437-f4e8-4e5e
   Του ήχους μου τους βρήκα <a href="https://freesound.org/"> εδώ <a/>. 
   
   Τέλος, για να ολοκληρωθεί τελείως η ταινία μου πρόσθεσα τίτλο και μερικά εφέ ακόμη κάνοντας την πιο επαγγελματική. Επεξεργάστηκα στον τίτλο τη γραμματοσειρά, τα χρώματα, το βάθος και έπειτα το πρόσθεσα στο Timeline όπου ρύθμισα την διάρκεια και την ορατότητα του. 
- 
-    ![Στιγμιότυπο οθόνης (64)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/2ae9f36f-4182-427c-bb0d-d7d4554c3ade)
 
+![Στιγμιότυπο οθόνης (64)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/88ece7f4-5a40-480c-8137-e140681c3a26)
   
-# Conclusions
+ Για να εξάγω την σκηνή μου σε μορφή mp4 χρησιμποίησα το recorder και ρύθμισα τις παραμέτρους του. Πάτησα το play και ξεκίσησε η διαδικασία  rendering. Αφού ολοκληρώθηκε και βεβαιώθηκα ότι όλα λειτουργούν σωστά το ανέβασα στο GitHub μέσω του GitHubDesktop. Δυστυχώς η ανάλυση δεν είναι πολύ καλη λόγω εξοικονόμήσης χώρου.
+  
 
+# Conclusions
+  
+  Με αυτά τα παραδοτέα είδαμε πως μπορούμε να δημιουργήσουμε μία ταινία amimation μέσω του Unity. Το Unity έχει πολλές δινατότητες και μία από αυτές είναι δημιουργία μιας ολοκληρωμένης ταινίας. Μάθαμε καινιύριες τεχνικές και μπήκαμε ταυτόχρονα στη θέση του edit director και του designer. Με αυτόν τον τρόπο εξικοιωθήκαμε με το πρόγραμμα και τις δυνατότητές του.
 
 # Sources
-  <li> <a href="https://assetstore.unity.com/"> 1o <a/>
-  <li> <a href="https://www.mixamo.com/"> 2o <a/> 
-  <li> <a href="https://learn.unity.com/project/unit-1-getting-started?uv=2019.4&courseId=5ee00851edbc2a0022274f75"> 3o <a/>  
-  <li> <a href="https://www.youtube.com/watch?v=5dRVRyyGR4A&t=603s"> 4o <a/>  
-  <li> <a href="https://freesound.org/"> 5o <a/>
+  <li> <a href="https://assetstore.unity.com/"> 1 <a/>
+  <li> <a href="https://www.mixamo.com/"> 2 <a/> 
+  <li> <a href="https://learn.unity.com/project/unit-1-getting-started?uv=2019.4&courseId=5ee00851edbc2a0022274f75"> 3 <a/>  
+  <li> <a href="https://www.youtube.com/watch?v=5dRVRyyGR4A&t=603s"> 4 <a/>  
+  <li> <a href="https://freesound.org/"> 5 <a/>
   
