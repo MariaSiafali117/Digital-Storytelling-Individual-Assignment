@@ -216,10 +216,53 @@ https://user-images.githubusercontent.com/101007425/236341707-50f9e437-f4e8-4e5e
 
 # 3rd Deliverable 
  
+Για το 3ο παραδοτέο έφταξα από την αρχή μία δική ταινία. Αρχικά κατέβασα δωρέαν από το Assets Stores ένα <a href="https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-urp29140clickref=1011lwNKXV3Q&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate/"> χωριό Viking <a/>  και από το mixamo κατέβασα τους χαρακτήρες μου που θα προταγωνιστούν στην ταινία μου. Επέλεξα μία χωριατοπούλα και μία ανθρωπόμορφη φιγούρα για τον κακό. Η ιδέα μου ήταν να δημιουργήσω μία σκηνή καταδίωξης, η ανθροπώμορφη φιγούρα κυνηγάει την χωριατοπούλα όπου αυτή στο τέλος θα καταφέρει να ξεφύγει.
+  
+Για την υλοποίηση της ιδέας μου χρησιμοποίησα το Unity σε συνδυασμό με τις οδηγίες του Unity Learn με βάση την ταινία Chase και τις γνώσεις μου από τα προηγούμενα παραδοτέα. Άνοιξα ένα καινούριο αρχείο URP και ένσωμάτωσα στα Assets μου την σκηνή με το χωριό Viking. Στη συνέχεια επεξεργάστηκα τον φωτισμό για προκειμένου να δώσω ένα πιο σκοτεινό και αγχωτικό ύφος. 
+ 
+![Στιγμιότυπο οθόνης (54)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/d811739e-3b26-4fba-958d-1bb5193e578a)
 
+ ![Στιγμιότυπο οθόνης (55)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/2e4f4012-4c29-430e-87d4-0f2ca9742f6f)
+  
+![Στιγμιότυπο οθόνης (56)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/3b7fb329-3fb3-4152-9d1f-9fc8108b1f15)
 
+Έπειτα εισήγαγα στην σκηνή μου τους προταγωνιστές μου. Τους έδωσα κίνηση και τους επεξεργάστηκα κατάλληλα ώστε να δημιουργήσω την σκηνή καταδίωξης. Τις κινήσεις των χαρακττήρων μου τις κατέβασα επίσης από το <a href="https://www.mixamo.com/"> mixamo <a/> . 
+  
 
+![Στιγμιότυπο οθόνης (57)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/32f3e733-50f5-4477-9c02-dae67fbf7627)
+  
+ ![Στιγμιότυπο οθόνης (59)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/eaf376cf-d209-4a04-a7e0-3cbde3cb55d6)
+
+  Για την τελευταία σκηνή χρειάστηκε να βάλω κίνηση και στην βάρκα την οπία την τοποθέτησα μέσα στην θάλασσα. 
+  
+  ![Στιγμιότυπο οθόνης (60)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/26189889-1276-4764-ad61-6c86f41a69fd)
+
+ Αφού τελείωσα με όλες τις κινήσεις, για να ολοκληρωθεί η σκηνή έπρεπε να βάλω κάμερες που θα ακολουθούν τους προταγωνιστές, δίνωντας δραματικότητα, παραστατικότητα και διαχωρίζοντας τις σκηνές μου. Συνολικά χρειάστηκα έξι κάμερες για δ΄ψσω το αποτέλεσμα που ήθελα.  
+  
+ ![Στιγμιότυπο οθόνης (61)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/28095355-76a9-4b6b-acbc-eddb8fdda4b9)
+
+  Ύστερα ήθελα να δημιουργήσω ένα εφέ που να μοιάζει με μαύρη τρύπα, καπνό ή ομίχλη το οποίο θα δίνει την αίσθηση ότι εξαφανίζει την χωριατοπούλα πάνω στη βάρκα. Για αυτό εισήγαγα ένα Particle System Effect και το επεξεργάστηκα ώστε να του δώσω την μορφή που επιθύμουσα. Το έβαλα και αυτό στο Timeline για του δώσω κίνηση και να εμφανίζεται όπως ήθελα. 
+  
+ ![Στιγμιότυπο οθόνης (62)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/9655a5fc-fadc-42c9-bbdd-54616fec764a)
+
+ Η ταίνια μου ήταν σχεδόν έτοιμη αλλα ελλειπής. Για αυτό πρόσθεσα ήχους. Πρώτα έβαλα μουσική στο Bakcground και μετά βρήκα μερικούς ήχους που ταίριαζαν με το περιεχόμενο μου. Τους εισήγαγα και αυτούς στο Timeline για να ρυθμίσω την διάρκεια την χρονική στιγμή που επιθυμούσα να είναι ενεργοί. 
+ 
+ ![Στιγμιότυπο οθόνης (63)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/93edd9d0-e8f0-4102-9130-12963545c762)
+
+  Του ήχους μου τους βρήκα <a href="https://freesound.org/"> εδώ <a/>. 
+  
+  Τέλος, για να ολοκληρωθεί τελείως η ταινία μου πρόσθεσα τίτλο και μερικά εφέ ακόμη κάνοντας την πιο επαγγελματική. Επεξεργάστηκα στον τίτλο τη γραμματοσειρά, τα χρώματα, το βάθος και έπειτα το πρόσθεσα στο Timeline όπου ρύθμισα την διάρκεια και την ορατότητα του. 
+ 
+    ![Στιγμιότυπο οθόνης (64)](https://github.com/MariaSiafali117/Digital-Storytelling-Individual-Assignment/assets/101007425/2ae9f36f-4182-427c-bb0d-d7d4554c3ade)
+
+  
 # Conclusions
 
 
 # Sources
+  <li> <a href="https://assetstore.unity.com/"> 1o <a/>
+  <li> <a href="https://www.mixamo.com/"> 2o <a/> 
+  <li> <a href="https://learn.unity.com/project/unit-1-getting-started?uv=2019.4&courseId=5ee00851edbc2a0022274f75"> 3o <a/>  
+  <li> <a href="https://www.youtube.com/watch?v=5dRVRyyGR4A&t=603s"> 4o <a/>  
+  <li> <a href="https://freesound.org/"> 5o <a/>
+  
